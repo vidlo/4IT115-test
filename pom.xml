@@ -5,6 +5,7 @@
 	<groupId>vidlo</groupId>
 	<artifactId>test_case</artifactId>
 	<version>0.0.1</version>
+	<name>testCase</name>
 	<dependencies>
 		<dependency>
 			<groupId>junit</groupId>
