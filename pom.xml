@@ -4,6 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>vidlo</groupId>
 	<artifactId>test_case</artifactId>
+	<version>0.0.1</version>
 	<dependencies>
 		<dependency>
 			<groupId>junit</groupId>
